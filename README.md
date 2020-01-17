@@ -81,3 +81,7 @@
 ## Participants
 
 Post your inquires [here](../../issues) 🕶️
+
+--
+
+Please ★ this repo if you're interested.
