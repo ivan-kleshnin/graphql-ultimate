@@ -80,4 +80,4 @@
 
 ## Participants
 
-Post your inquires [here](./issues) 🕶️
+Post your inquires [here](../../issues) 🕶️
