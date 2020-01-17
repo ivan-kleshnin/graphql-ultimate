@@ -27,14 +27,19 @@
 * Can view Posts
 * Can view Blog
 * Can login via GitHub
-
-### Admin
-
 * Can logout
+
+### Writer
+
 * Can create Post
 * Can edit (own) Posts
 * Can view Accounts
 * Can edit (own) Account
+
+### Admin
+
+* Can edit Posts
+* Can edit Accounts
 
 ## Development
 
